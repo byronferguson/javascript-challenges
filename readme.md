@@ -1,5 +1,6 @@
 JavaScript Challenges
 =====================
+[Source of Challenges]: https://github.com/indiesquidge/javascript-challenges
 
 A collection of JavaScript coding challenges.
 
